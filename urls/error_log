@@ -1,0 +1,7 @@
+[19-Jul-2024 14:49:07 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'polc8288_polmo'@'localhost' (using password: YES) in /home/polc8288/public_html/urls/config.php on line 7
+[19-Jul-2024 14:50:03 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'polc8288_polmor'@'localhost' (using password: YES) in /home/polc8288/public_html/urls/config.php on line 7
+[19-Jul-2024 14:50:06 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'polc8288_polmor'@'localhost' (using password: YES) in /home/polc8288/public_html/urls/config.php on line 7
+[19-Jul-2024 14:50:49 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'polc8288_polmor'@'localhost' (using password: YES) in /home/polc8288/public_html/urls/config.php on line 7
+[19-Jul-2024 14:51:33 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'polc8288_polmor'@'localhost' (using password: YES) in /home/polc8288/public_html/urls/config.php on line 7
+[19-Jul-2024 14:53:15 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'polc8288_polmor'@'localhost' (using password: YES) in /home/polc8288/public_html/urls/config.php on line 7
+[19-Jul-2024 14:54:02 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'polc8288_polmor'@'localhost' (using password: YES) in /home/polc8288/public_html/urls/config.php on line 7
